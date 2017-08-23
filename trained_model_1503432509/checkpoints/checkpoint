@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/remix/dev/lab/GCP/multi-class-text-classification-cnn/trained_model_1503432509/checkpoints/model-50"
+all_model_checkpoint_paths: "/Users/remix/dev/lab/GCP/multi-class-text-classification-cnn/trained_model_1503432509/checkpoints/model-50"
