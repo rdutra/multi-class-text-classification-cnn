@@ -6,8 +6,6 @@
  - The purpose of this project is to **classify social media posts into a number of different classes (labels)**. 
  - The model was built with **Convolutional Neural Network (CNN)** and **Word Embeddings** on **Tensorflow**.
 
-### Data: [Kaggle Consumer Finance Complaints](https://www.kaggle.com/cfpb/us-consumer-finance-complaints)
-
 ### Train:
 
  - Command: python train.py training_data.file parameters.json
