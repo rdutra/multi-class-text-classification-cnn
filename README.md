@@ -1,5 +1,3 @@
-### Project: Classify Kaggle Consumer Finance Complaints
-
 ### Highlights:
 
  - This is a **multi-class text classification (sentence classification)** problem.
